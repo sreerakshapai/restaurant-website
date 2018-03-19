@@ -1,5 +1,6 @@
 body{
 padding: 0;
+background-color: wheat;
 }
 h1{
     font-family: 'Rammetto One', cursive;
@@ -84,7 +85,12 @@ max-height: 500px;
     margin-right: 10px;
     padding-right: 20px;
 
-}
+}Contact Us
+Name :￼
+Enter Your Name
+Email address￼
+name@example.com
+
 .content-index h1{
     margin-bottom: 50px;
 }
@@ -165,4 +171,13 @@ form{
     background: black;
     color: wheat;
     padding: 20px 20px  ;
+    margin: 200px;
+}
+form  .btn-dark{
+    background-color: black;
+    color: wheat;
+}
+.btn-dark :hover {
+    color: black;
+    background-color: black;
 }
