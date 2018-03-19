@@ -125,21 +125,31 @@ width:100%;
     font-family: 'Ropa Sans', sans-serif;
 }
 
-
-
-/* careers */
-form{
-    padding: 50px 50px;
-
-}
-.form-group{
+/* catering page */
+.cater-service img{
+    width: 100%;
     padding: 20px 20px;
     margin: 0 auto;
+    max-height: 600px;
 
 }
-.form-group label, input{
-    width: 50%;
+.cater-service p{
+    padding: 20px20px;
+    margin-top: 20px;
+    text-align: center;
 }
-.form-group button{
-   max-width:20px;
+/* locateuspage */
+.locate-us {
+    margin-top: 40px;
+    padding: 20px 20px;
+}
+.locate-us h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.locate-us p, {
+    text-align: center;
+}
+.locate-us button{
+    align-content: center;
 }
