@@ -157,4 +157,12 @@ width:100%;
     color:wheat;
 }
 
-
+/* contact page */
+form .form-group{
+    width: 50%;
+}
+form{
+    background: black;
+    color: wheat;
+    padding: 20px 20px  ;
+}
