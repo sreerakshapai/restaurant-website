@@ -1,0 +1,125 @@
+body{
+padding: 0;
+
+}
+h1{
+    font-family: 'Rammetto One', cursive;
+
+}
+p{
+    font-family: 'Ropa Sans', sans-serif;
+
+}
+
+/* navbar section */
+.navbar {
+    margin: 0;
+    text-align: center;
+    background-color:black !important;
+    } 
+    .navbar ul{
+    margin: 0 auto;
+    list-style: none;
+    text-align: left;
+    }
+    
+    .navbar li {
+        margin: 10px;
+    }
+        .navbar a{
+    text-decoration: none;
+    font-family: Cambria, serif;
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: normal;
+    color:wheat !important;
+    }
+        
+    .nav-link{
+        display: inline;
+        margin: 0 auto;
+        
+    }  
+    .navbar-brand .logo{
+        font-family: 'Berkshire Swash', cursive;
+       
+        }
+        
+  .navbar-brand i,
+  .navbar-brand .logo {
+        font-size: 3rem;
+        padding: 10px;
+        margin: 0 auto;
+        }
+    .main-navbar li.active{
+        background-color:#EEF36A;
+    }
+
+
+
+
+/* carousel */
+.carousel img{
+max-height: 500px;
+
+}
+/* about-index */
+.about-index{
+    background: whitesmoke;
+    padding-top: 10px;
+}
+/* content-index */
+.content-index img{
+ padding: 10px 10px;
+ max-width: 500px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+
+}
+
+.content-index  p{
+    text-align:center;
+    margin-top: 150px;
+    padding-left: 20px;
+    margin-right: 10px;
+    padding-right: 20px;
+
+}
+.content-index h1{
+    margin-bottom: 50px;
+}
+.about-page p{
+    margin: 0 auto;
+    text-align: justify;
+}
+.about-page h1{
+    margin-top: 20px;
+    text-align: center;
+
+}
+/* starter-menupage */
+.starter-menu  img{
+max-height: 400px;
+padding: 20px 20px;
+width:100%;
+}
+.starter-menu h1{
+    margin-top: 20px;
+}
+.starter-menu  li{
+    list-style:none;
+    padding:10px 10px;
+    margin-top: 30px;
+    display: flex;
+}
+.starter-menu table ,tr ,td{
+    padding: 10px 10px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: justify;
+    background: black;
+    color: wheat;
+    width:50%;
+    font-family: 'Ropa Sans', sans-serif;
+}
