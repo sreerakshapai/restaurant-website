@@ -127,3 +127,19 @@ width:100%;
 
 
 
+/* careers */
+form{
+    padding: 50px 50px;
+
+}
+.form-group{
+    padding: 20px 20px;
+    margin: 0 auto;
+
+}
+.form-group label, input{
+    width: 50%;
+}
+.form-group button{
+   max-width:20px;
+}
