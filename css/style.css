@@ -1,7 +1,5 @@
 body{
 padding: 0;
-
-
 }
 h1{
     font-family: 'Rammetto One', cursive;
@@ -144,7 +142,7 @@ width:100%;
     padding: 20px 20px;
 }
 .locate-us h1{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     text-align: center;
 }
 .locate-us p, {
@@ -152,4 +150,9 @@ width:100%;
 }
 .locate-us button{
     align-content: center;
+    background: black;
+}
+.locate-us a{
+    text-decoration: none;
+    color:wheat;
 }
