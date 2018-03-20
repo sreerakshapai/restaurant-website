@@ -69,6 +69,28 @@ max-height: 500px;
     background: whitesmoke;
     padding-top: 10px;
 }
+
+/* book a table */
+
+  .option-book #option {
+    margin-top:200px;
+    float:left;
+  }
+  .option-book #option h2{
+    color:white;
+    background-color:black;
+    width:200px;
+   height:50px;
+   cursor:pointer;
+    border-radius:25px;
+    line-height:2;
+    text-align:center; 
+    transition:all 0.1s linear;
+  }
+ .option-book  #option h2:hover{
+    width:250px;
+    background-color:green;
+ }
 /* content-index */
 .content-index img{
  padding: 10px 10px;
