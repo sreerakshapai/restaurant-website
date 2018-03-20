@@ -365,23 +365,5 @@ footer {
         width: 100%;
         max-height: 400px;
     }
-    .content-index img {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        margin-bottom: 30px;
-    }
-    .footer-main .address,
-    .footer-main .navigation {
-        flex: 1 1 100%;
-        padding: 2.5%;
-    }
-    .footer-main .navigation ul {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .footer-main .navigation li {
-        list-style: none;
-        margin: 5px 10px;
-    }
+   
 }
