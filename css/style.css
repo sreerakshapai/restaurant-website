@@ -75,8 +75,11 @@ p {
 /* about-index */
 
 .about-index {
-    background: whitesmoke;
+    background:wheat;
     padding-top: 10px;
+}
+.about-index h1{
+    margin-top: 10px;
 }
 
 
