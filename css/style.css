@@ -98,6 +98,24 @@ max-height: 500px;
     text-align: center;
 
 }
+
+/* owl carousel */
+.owl-carousel p {
+    text-align: justify;
+}
+
+.owl-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1rem;
+}
+
+.owl-nav .owl-prev,
+.owl-nav .owl-next{
+    font-size: 30px !important;
+}
+
 /* starter-menupage */
 .starter-menu  img{
 max-height: 400px;
