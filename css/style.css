@@ -11,6 +11,10 @@ p{
 
 }
 
+/* topbar */
+.top-bar{
+    padding-top: 15px;
+}
 /* navbar section */
 .navbar {
     margin: 0;
